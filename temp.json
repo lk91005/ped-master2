@@ -1,0 +1,32 @@
+{
+    "admin": [],
+    "whitelist": [],
+    "developer": [
+        "uce2a91a7b1e3c2aa2035285a8bfd5205",
+        "u1b46ad414bed57f419da2727778550dd",
+        "uf12790edd709ff32f99941f922cba7e8",
+        "u7d2c1a7153bc2ab0578c81bf709c8865"
+    ],
+    "owner": [],
+    "staff": [],
+    "blacklist": [
+        "u3f38d0d871abb5a26bc7c801de725e76",
+        "ub53f0f3622caded866ec3560f1f3bcd0",
+        "u6652b44e712a7add41affdbea4c1225a",
+        "ud5c55e7d7c2f9bdedeeb9390d1cbd7bb",
+        "u9b2a8decbb2e5bb99336fff5d1b6efb6",
+        "u49e32c5856efdf80565e47faf68370f2"
+    ],
+    "bots": [
+        "ue08f083c3875a0165e6286fde7aa4a03",
+        "u9379b802f773d09e51a6599045ff043a",
+        "uc1cc2846bba6799211c7147ef349659f",
+        "u98d7a32b95cc8467dd401b379542f467",
+        "uc585266d96c726bfecc2d787fe4e4f2e",
+        "u0dbc1205dd30f8ece0a93ca89c117f4b",
+        "u7ac1a4b72f734b32e6a3ce16a4e56d83",
+        "ubb61d5cf49f196739444142b69d92113",
+        "ub99153c387c8b6d95a74077619967f01",
+        "u12df124fce554eb6227c27cfa2e23d03"
+    ]
+}
